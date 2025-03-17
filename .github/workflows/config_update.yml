@@ -1,0 +1,51 @@
+name: Config Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 18 * * *'
+
+jobs:
+  bulid:
+    runs-on: ubuntu-latest
+
+    stpes:
+    - uses: actions/checkout@v2
+
+    - name: Setup sing-box
+      run: |
+        set -Eeuo pipefail
+        wget -O sing-box.deb https://github.com/SagerNet/sing-box/releases/download/v1.11.5/sing-box_1.11.5_linux_amd64.deb
+        sudo dpkg -i sing-box.deb
+
+    - name: Download content
+      run: |
+        [ -d rule ] || mkdir rule
+        curl -L https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt -o ./rule/adguard-base-filter.txt
+        curl -L https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers.txt -o ./rule/adguard-chinese-filter.txt
+        curl -L https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt -o ./rule/easylist-china.txt
+        curl -L https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt -o ./rule/adguard-dns-filter.txt
+        curl -L https://anti-ad.net/easylist.txt -o ./rule/anti-ad.txt
+
+    - name: Convert sing-box rule set
+      run: |
+        sing-box rule-set convert --type adguard --output ./rule/adguard-base-filter.srs ./rule/adguard-base-filter.txt
+        sing-box rule-set convert --type adguard --output ./rule/adguard-chinese-filter.srs ./rule/adguard-chinese-filter.txt
+        sing-box rule-set convert --type adguard --output ./rule/easylist-china.srs ./rule/easylist-china.txt
+        sing-box rule-set convert --type adguard --output ./rule/adguard-dns-filter.srs ./rule/adguard-dns-filter.txt
+        sing-box rule-set convert --type adguard --output ./rule/anti-ad.srs ./rule/anti-ad.txt
+
+    - name: Commit and push
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+        git add ./rule/*.srs
+        git add ./rule/*.txt
+
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+          exit 0
+        else
+          git commit -m "Update rules"
+          git push
+        fi
