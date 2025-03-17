@@ -6,7 +6,7 @@ on:
     - cron: '0 18 * * *'
 
 jobs:
-  bulid:
+  build:
     runs-on: ubuntu-latest
 
     stpes:
