@@ -1737,6 +1737,12 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||dhaaralzz.com^
+||gqoi.cn^
+||drlzlc.top^
+||yugjwgg.icu^
+||vytn.cn^
+||teeniaole.com^
 ||phorralut.com^
 ||pqav.cn^
 ||fsjfnp.top^
@@ -15237,6 +15243,7 @@ brandsales.58.com#@#div[id^="ad_"]
 android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,lspdfrcn.com,moa.tw,moe48.com,numberempire.com,playok.com,reh.tw,shenfendaquan.com,vaptcha.com#@#ins.adsbygoogle[data-ad-slot]
 !---------------------------------URL Whitelist-------------------------------!
 @@.adserver.$domain=litv.tv
+@@||jinritemai.com^$generichide
 @@||linetv.tw^$generichide
 @@||googleads.g.doubleclick.net^$domain=wandhi.com
 @@||am730.com.hk^$generichide
