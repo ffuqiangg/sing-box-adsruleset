@@ -1742,6 +1742,15 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||thaincoth.com^
+||etbh.cn^
+||pflwta.top^
+||uucnwtt.top^
+||twcnmti.top^
+||918000.xyz^
+||vtbe.cn^
+||qtthehnor.com^
+||qighodetfg.com^
 ||leirerspfz.com^
 ||ifje.cn^
 ||ngjcvn.top^
@@ -17384,6 +17393,9 @@ yydstxt*.com/js/cdn.
 ||28lu.net^*/0
 ||wodeshucheng.com^*/0
 ||xiguasuwu.com/static/m.
+||biqgg.com/n.
+||biqgg.com/w.
+||fd80s.com/static/m.
 /static/2biqu/twgdh.js
 .cc/js/dj1*.js
 .cc/js/dj2*.js
