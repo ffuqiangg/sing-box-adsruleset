@@ -1736,6 +1736,14 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||yimh.cn^
+||qwcpme.icu^
+||hjvprx.top^
+||qnhoqullbea.com^
+||iiwk.cn^
+||mos05111o9i.com^
+||mos05110o9i.com^
+||kklq05111p0i.com^
 ||stgxau.icu^
 ||qpqp05100oki.com^
 ||rdut.cn^
@@ -1746,6 +1754,8 @@ newduba.cn###jq_youxi
 ||unwucnt.top^
 ||qpqp05101oki.com^
 ||qcogiellq.com^
+||fbhorutgy.com^
+||hur05110kns.com^
 ||hur05101kns.com^
 ||xklv.cn^
 ||jguhqbe.top^
@@ -17195,6 +17205,7 @@ wss://*.*.top/$third-party
 ||tunshixingkong2.com/config/v7.js
 ||mihoutao1868.github.io^
 ||wanmeisxs.cc/js/m.
+||biqugie.com/js/wap.
 4hrz.net,1ingatlan.net,xianguke.net,tetservices.net##.dbfh
 4hrz.net,1ingatlan.net,xianguke.net,tetservices.net##.app
 4hrz.net,1ingatlan.net,xianguke.net,tetservices.net###htmlContenthtml
