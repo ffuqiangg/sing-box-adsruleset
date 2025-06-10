@@ -9,6 +9,7 @@
 !
 !
 !
+||hurarwjrirti.com^
 ||pahtpw.tech^
 ||livestt.co^
 ||skypie.info^
@@ -92,7 +93,6 @@
 ||dramaticsalad.com^$all
 ||debridleech.com^$all
 ||trckkkk.com^$all
-||fastorfar.com^$all
 ||hopgp.com^$all
 ||loowhujoom.net^$all
 ||glugherg.net^$all
@@ -481,7 +481,6 @@
 ||adword.ge^$third-party
 ||delivery.adten.eu^$third-party
 ||hub.com.pl^$third-party
-||yourservice.live^
 ||whehilru.com^
 ||frtyo.com^$third-party
 ||targaubs.com^
@@ -715,7 +714,6 @@
 ||getkmspico.com^$all
 ||heukmsactivator.com^$all
 ||Furykms.com^$all
-||kmsofficial.org^$all
 ||getintopc.today^$all
 !
 ! Trillion
@@ -814,6 +812,9 @@
 ! https://github.com/AdguardTeam/FiltersRegistry/pull/937
 ! To fix the issue with the CNAME trackers, add problematic domains here:
 ! https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/exclusions.txt
+!
+! RealBig : park.realbig.online disguised advertising networks
+!#include https://adguardteam.github.io/cname-trackers/data/ads/realbig.txt
 !
 ! GoAdserver : go.goadserver.com disguised advertising networks
 !#include https://adguardteam.github.io/cname-trackers/data/ads/goadserver.txt
@@ -933,7 +934,6 @@
 ||reachableads.com^
 ||pixelpluses.com^
 ||cerineas.com^
-||iforcircles-2.online^
 ||newchallenges-dsp.com^
 ||webmedxml.com^
 ||rtbserve.io^
