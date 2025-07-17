@@ -1744,6 +1744,15 @@ newduba.cn###jq_youxi
 !
 ||f3k194f9i7.com^
 ||huo07161hy.com^
+||28jbkeigl.com^
+||auy07170km.com^
+||tux76afo5.com^
+||oqmqqm.icu^
+||huo07170hy.com^
+||fingerly63.top^
+||vncq.cn^
+||1dor1d6vc.com^
+||pwaihoe.icu^
 ||ijyj.cn^
 ||i5q1t8vj9.com^
 ||huo07150hy.com^
@@ -10068,6 +10077,7 @@ meijutt.*/js/pcjs/
 ||v2ex.com/pro/emitter
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
+1lou.me,1lou.one,1lou.pro###advert > :not(.card)
 manhuapica.com##a[href^="/ad/"]
 nodeseek.com##.promotation-item
 gx.cn###html-box-AD
