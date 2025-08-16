@@ -15,7 +15,7 @@ jobs:
     - name: Setup sing-box
       run: |
         set -Eeuo pipefail
-        wget -O sing-box.deb https://github.com/SagerNet/sing-box/releases/download/v1.11.13/sing-box_1.11.13_linux_amd64.deb
+        wget -O sing-box.deb https://github.com/SagerNet/sing-box/releases/download/v1.12.1/sing-box_1.12.1_linux_amd64.deb
         sudo dpkg -i sing-box.deb
 
     - name: Download content
