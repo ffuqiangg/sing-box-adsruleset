@@ -1745,6 +1745,22 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||cbembusgcl.com^
+||nio09081lt.com^
+||nio09080lt.com^
+||joi09081pt.com^
+||8x14khzwmi.com^
+||qhherqral.com^
+||wu2088-603.shop^
+||xdoriq.cn^
+||cekdew.icu^
+||dr7dsx6u9.com^
+||gru07o6y3.com^
+||rfilmalmz.com^
+||tthrirgud.com^
+||vickyellend.com^
+||jigool.org^
+||lywaelm.online^
 ||1nrlydgrr.com^
 ||joi09070pt.com^
 ||thumbb86.com^
@@ -1755,6 +1771,11 @@ newduba.cn###jq_youxi
 ||3x5h6x434.com^
 ||fsu1cg19c.com^
 ||joi09071pt.com^
+||eboobuv0rk.com^
+||joi09080pt.com^
+||tongueq2.top^
+||4p04u96158.com^
+||rlri.cn^
 !
 ||ilgt04vkw4.com^
 ||d7fl3a3vwh.com^
@@ -4100,7 +4121,6 @@ newduba.cn###jq_youxi
 ||ibyrwvi.cn^
 ||lclimil.top^
 ||okpp01031.xyz^
-!
 ||rhndvagz.icu^
 ||okpp01030.xyz^
 ||cuvedyqs.com^
@@ -17592,7 +17612,7 @@ wss://*.*.top/$third-party
 ||mihoutao1868.github.io^
 ||wanmeisxs.cc/js/m.
 ||biqugie.com/js/wap.
-||qingqingxs.top/static/xbiquge/wap.js
+||qingqingxs.*/static/xbiquge/wap.js
 ||fushuba123.top/statics/js/wap.js
 /pa.dajiahao*.top/
 ||bdcde.com/js/x*.js
@@ -17613,7 +17633,7 @@ wss://*.*.top/$third-party
 ||bqge9.com/static/ad01.js
 ||440012.xyz/js/wapm.js
 ||116xs.com/js/backbone.js
-||38ksw.com^*/082903.
+||38ksw.com^*/0
 ||d1bz.xyz/static/book/static.
 ##.row.nav-bottom + div[style^="display: block; position: relative; width: 0px; height:"]
 ##a[href*="aHR0cHM6Ly9xc2Z2bDExLmFsYXp2LmNvbS8zNzA4Lmh0bWw="]
