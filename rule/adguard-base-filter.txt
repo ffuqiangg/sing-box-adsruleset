@@ -9,6 +9,7 @@
 !
 !
 !
+||ad-blocker-1.static-cloudflare.workers.dev^
 ||traumatic-witness.pro^
 ||quizzicalrun.com^
 ||doorknockset.com^
@@ -875,6 +876,8 @@
 ||vipads.live^
 !+ NOT_OPTIMIZED
 ||api.smartnews-ads.com^
+! Ads in emails
+ad.broadstreetads.com
 ! Required for apps, because on some sites it's not blocked when there is "$third-party" modifier
 ||netpub.media^
 !
