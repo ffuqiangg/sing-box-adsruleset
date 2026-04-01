@@ -9,6 +9,9 @@
 !
 !
 !
+||advolve.io^
+||gggpppht.com^
+||ember-cf-netlify.cdn-x.net^
 ||ad-blocker-1.static-cloudflare.workers.dev^
 ||traumatic-witness.pro^
 ||quizzicalrun.com^
@@ -775,7 +778,7 @@
 ||webinstats.com^$third-party
 ||localbitcoins.com^$third-party
 ||qwfh39851jtfvkurf21hf.com^
-||onaudience.com^$third-party
+||onaudience.com^
 ||ichlnk.com^$third-party
 ||plxnt.com^$third-party
 ||ad-specs.guoshipartners.com^
