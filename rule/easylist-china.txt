@@ -1750,6 +1750,7 @@ newduba.cn###jq_youxi
 !----------------------------------Ads-Union----------------------------------!
 ##a[href*="/122.51.121.126:"]
 ##a[href*="/137.220.194.105:"]
+##a[href*="/137.220.194.123:"]
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top|xyz)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -1770,6 +1771,19 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||mip37c9nf.com^
+||yehrrtjop.com^
+||nly9u12pi.com^
+||47c7zhqak.com^
+||additional59.top^
+||pkwnpgsex.com^
+||s0khf11i8.com^
+||psgpllf.com^
+||nlkylpo.com^
+||8khgnlxk6.com^
+||unjrkrxme.com^
+||x8wyxfxul.com^
+||e2fpulacx.com^
 ||j1s956aee8.com^
 ||gvwjiasjlk.com^
 ||sgjewpnite.com^
