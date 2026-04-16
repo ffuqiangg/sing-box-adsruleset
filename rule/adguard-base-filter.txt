@@ -9,6 +9,7 @@
 !
 !
 !
+||bigcrunch.com^$third-party
 ||go.gsrv.dev^$all
 ||gatheringtypes.com^
 ||hoerenjs.b-cdn.net^
