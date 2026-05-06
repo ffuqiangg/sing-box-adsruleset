@@ -11,6 +11,7 @@
 !
 ||jackknifemonuments.com^
 ||colbwxlsfenwn.website^
+||postmedia-ai.wehaacdn.com^
 ||postmedia.app^$third-party
 ||b-short.link^$all
 ||yoszi.com^$third-party
