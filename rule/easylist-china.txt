@@ -1773,6 +1773,18 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||roywc0iql.com^
+||s002o2hkg.com^
+||fraction05.com^
+||elwebmx21.com^
+||yqgtuqf.icu^
+||vwpgnvwgywbrfo.com^
+||8cj70f905.com^
+||jba33y5xx.com^
+||9rkh7nbaj.com^
+||0oo9j37xp.com^
+||fk8k4t55e.com^
+||h5o61akbx.com^
 ||dividend56.top^
 ||zkhjsta.beauty^
 ||h702886htm.com^
@@ -11472,6 +11484,7 @@ meijutt.*/js/pcjs/
 ||nbpicture.xyz^$domain=ltd.ua
 ||tcptest.cn/prod-api/web/adLinks/
 ||r3sub.com/nb/
+||xwcm.net/caches/ahm.
 !------------------------Specific element hiding rules------------------------!
 huaren.live##.pause-love
 jucha.com##.money_item
