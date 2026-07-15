@@ -1748,6 +1748,7 @@ newduba.cn###jq_youxi
 ###index-ad-banner
 ##.newsAD
 ##.art-layer-ad
+##._v_ad_container
 !----------------------------------Ads-Union----------------------------------!
 ##a[href*="/122.51.121.126:"]
 ##a[href*="/137.220.194.105:"]
@@ -1768,6 +1769,19 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||paintbrush82.top^
+||yymowvdy0.com^
+||eq9qnbh53.com^
+||xspxdhkcaplhza.com^
+||nrfvq6g98.com^
+||yqlm5il7p.com^
+||s9dik0ydj.com^
+||8al17kw6d.com^
+||ccpvq7fgy.com^
+||v85ps46o4.com^
+||vzayis1qa.com^
+||xo2ra1fu7.com^
+||zkn5zg8on.com^
 ||s2ze6h0miy.com^
 ||4e0jpheoi1.com^
 ||scissors73.top^
